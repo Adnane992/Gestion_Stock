@@ -1,0 +1,55 @@
+div{
+	background-color: blue;
+	font-size: 30px;
+}
+p{font-size: 30px;}
+.leg{
+	width: 450px;
+	margin: 5px auto;
+	padding: 10px;
+}
+.t{
+	width: 350px;
+	height: 30px;
+}
+.boutton{
+	width: 80px;
+	height: 35px;
+}
+.rd{
+	font-size: 30px;
+}
+.inp{
+	margin: 5px auto;
+	padding: 10px;
+}
+.tb{
+	width: 50px;
+	height:50px;
+}
+.dt{
+	width: 350px;
+	height: 30px;
+}
+
+.cd{
+	background-image: url("/web/crop.jpg");
+	background-position: center;
+}
+b,h3{
+	font-size: 30px;
+	color: black;
+}
+li:hover {
+  color: yellow;
+  font-size: 30px;
+}
+a{
+	color: black;
+}
+.acceuil{
+	background-image: url("/web/crop2.png");
+}
+.crop1{
+	background-image: url("/web/crop1.png");
+}
